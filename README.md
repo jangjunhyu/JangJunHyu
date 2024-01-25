@@ -4,14 +4,15 @@
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+안녕하세요! 잘 부탁 드립니다.
+
+Back-end 개발자를 꿈꾸고 있는 장준휴 입니다.
 
 </br>
 
 ## :pushpin: Contact
 - 이메일: wkdwnsgb@gmail.com
-- 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 블로그: <a href="https://velog.io/@jang_tissue/posts">velog 주소</a>
 
 </br>
 
